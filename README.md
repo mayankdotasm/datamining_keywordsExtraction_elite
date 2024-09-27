@@ -22,6 +22,7 @@ You can also run the complete pipeline using the Jupyter Notebook, which integra
 
 For insights into the current methodologies and findings in keyword extraction, you can refer to the following research article:
 
+This program and its associated materials are the intellectual property of the original authors, Swagata Duari and Vasudha Bhatnagar. We are exploring this work solely for educational and learning purposes. Any use beyond personal study and experimentation should be done with permission from the authors.
 ```bibtex
 @article{DUARI2019100,
     title = "sCAKE: Semantic Connectivity Aware Keyword Extraction",
@@ -36,7 +37,6 @@ For insights into the current methodologies and findings in keyword extraction, 
     keywords = "Automatic Keyword Extraction, Text Graph, Semantic Connectivity, Parameterless, Language Agnostic"
 }
 
-## ⚖️ Intellectual Property Notice
 
-This program and its associated materials are the intellectual property of the original authors, Swagata Duari and Vasudha Bhatnagar. We are exploring this work solely for educational and learning purposes. Any use beyond personal study and experimentation should be done with permission from the authors.
+
 
