@@ -1,0 +1,444 @@
+IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS, VOL. 3, NO. 2, APRIL 1997 435
+GaN-Based Blue/Green Semiconductor Laser
+Shuji Nakamura
+Abstract— High-power InGaN single-quantum-well (SQW)
+structure blue/green light-emitting diodes (LED’s) with an
+output power of 3–5 mW were fabricated. The continuous-waveoperation of bluish-purple InGaN multiquantum-well (MQW)-structure laser diodes (LD’s) was achieved at room temperaturewith a lifetime of 35 h. The threshold current and the voltageof the LD were 80 mA and 5.5 V, respectively. Photocurrentspectra of the InGaN SQW LED’s and MQW LD’s weremeasured at room temperature. The Stokes shifts of the energydifference between the absorption and the emission energy ofthe blue/green InGaN SQW LED’s and MQW LD’s were 290,570, and 190 meV. Both spontaneous and stimulated emission ofthe LD’s originated from this deep localized energy state whichis equivalent to a quantum dot-like state. When the temperatureor the operating current of the LD’s was varied, large modehopping of the emission wavelength was observed. The carrierlifetime and the threshold carrier density were estimated to be4.7 ns and 1
+/210/50/48/cm/51/59respectively. The optical conﬁnement
+factor /40/0/41of the InGaN MQW LD’s was estimated to be 0.025
+from the measurement of the near-ﬁeld radiation patterns.
+Index Terms— Blue LED, Blue LD, GaN, MQW.
+I. INTRODUCTION
+SHORT-WAVELENGTH-EMITTINGdevices,suchasblue
+laser diodes (LD’s), are currently required for a number of
+applications, including full-color electroluminescent displays,
+laser printers, read-write laser sources for high-density infor-
+mation storage on magnetic and optical media, and sourcesfor undersea optical communications. Major developmentsin wide-gap III–V nitride semiconductors have recently led
+to the commercial production of high-brightness blue/green
+light-emitting diodes (LED’s) [1] and to the demonstrationof room-temperature (RT) bluish-purple laser light emissionin InGaN–GaN–AlGaN-based heterostructures under pulsed
+currents [2]–[8] and continuous-wave (CW) operation [9],
+[10].Thesedevelopmentsarearesultoftherealizationofhigh-quality crystals of AlGaN and InGaN, and p-type conductionin AlGaN [11]–[15]. The recombination of localized excitons
+has been proposed as an emission mechanism for these InGaN
+quantum-well-structure LED’s [16]. The radiative recombina-tion of the spontaneous and stimulated emissions of the InGaNMQW LED’s and LD’s was attributed to excitons (or carriers)
+localized at deep traps (250 meV) which originated from the
+In-rich region in the InGaN wells acting as quantum dots [17].It is of interest to measure the characteristics of these RT CWoperated LD’s in detail, especially the emission mechanism,
+with respect to the self-formation of InGaN quantum dots.
+Manuscript received November 12, 1996; revised February 4, 1997.
+The author is with the Department of Research and Development, Nichia
+Chemical Industries, Ltd., Kaminaka, Anan, Tokushima 774, Japan.
+Publisher Item Identiﬁer S 1077-260X(97)04508-5.
+Fig. 1. EL of (a) blue, (b) green, and (c) yellow SQW LED’s at a forward
+current of 20 mA.
+Here, we describe the characteristics of InGaN SQW LED’s
+and MQW LD’s under RT CW operation.
+II. BLUE/GREENLED’s
+III–Vnitrideﬁlmsweregrownbythetwo-ﬂowmetalorganic
+chemical vapor deposition (MOCVD) method. Details of two-
+ﬂowMOCVDhavebeendescribedelsewhere[18].Thegrowthwasconductedatatmosphericpressure,and(0001)C-facesap-phirewasusedasthesubstrate.Thegreensingle-quantum-well
+(SQW)LEDconsistsofa300- ˚A-thickGaNbufferlayergrown
+at a low temperature (550
+C), a 4- m-thick layer of n-type
+GaN:Si, a 30- ˚A-thick active layer of undoped In GaN,
+a 1000-˚A-thick layer of p-type Al GaN:Mg, and a 0.5-
+m-thick layer of p-type GaN:Mg [1]. The active region has
+a SQW structure consisting of a 30- ˚A-thick In GaN
+well layer sandwiched between 4- m-thick n-type GaN and
+1000-˚A-thick p-type Al GaN barrier layers.
+Fig. 1 shows typical electroluminescence (EL) for blue,
+green and yellow SQW LED’s with different indium molefractions in the InGaN well layer obtained at a forward currentof 20 mA [1]. The indium mole fraction of the InGaN well
+layer of the blue SQW LED’s was 0.3. The peak wavelength
+and the full-width at half-maximum (FWHM) for the typicalblue SQW LED’s are 450 and 30 nm, respectively, thosefor the green SQW LED’s are 520 and 35 nm, respectively,
+and those for the yellow SQW LED’s are 600 and 50 nm,
+respectively. The EL peak energy for the green SQW LED’sexhibited blue shifts of about 100 meV as the driving currentwas increased from 1 to 80 mA, as shown in Fig. 2. Similar
+blue shifts were obtained for both the blue and yellow SQW
+LED’s. When the peak wavelength increases, the FWHM ofthe EL spectra increases, probably due to the inhomogeneitiesin the InGaN layer or the strain between the well and the
+barrier layers of the SQW, which is caused by the lattice
+1077–260X/97$10.00 1997 IEEE436 IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS, VOL. 3, NO. 2, APRIL 1997
+Fig. 2. EL of green SQW LED’s with various forward currents.
+mismatch and differences between the thermal expansion
+coefﬁcients of the well and the barrier layers. At 20 mA,
+the output power and the external quantum efﬁciency of the
+blue SQW LED’s are 5 mW and 9.1%, respectively. Those of
+the green SQW LED’s are 3 mW and 6.3%, respectively. A
+typical on-axis luminous intensity of the green SQW LED’s
+for a 10 C conical viewing angle is 10 cd at 20 mA.
+These values of output power, external quantum efﬁciency and
+luminous intensity for blue/green SQW LED’s are the highest
+yet reported.
+Photocurrent (PC) spectra of the blue and green SQW
+LED’s were measured to assign the emission and absorption
+energy levels. Monochromatic light was focused on the epi-
+taxial wafer of each device structure and the PC spectrumwas measured. Fig. 3 shows the PC spectra and EL spectra
+of the blue and green InGaN SQW LED’s. The EL of the
+LED’s was measured at a current of 20 mA at RT [1]. The
+peak wavelengths of the EL of the blue and green InGaN
+SQW LED’s were 453 nm (2.73 eV) and 520 nm (2.38 eV),
+respectively, as shown in spectra (c) and (d). Both PC spectra
+(a) and (b) show a strong peak at a wavelength around 360
+nm (3.44 eV) which is due to an absorption of the thick
+GaN layers. In the PC spectra there are also shoulder-like
+peaks at 410 nm (3.02 eV) for the blue (a) and 420 nm
+(2.95 eV) for the green SQW LED’s (b). These shoulder-
+like peaks are probably due to the absorption at the
+1
+electron heavy-hole excitonic transition of the quantum energy
+level in the InGaN well layer [16], [17]. The Stokes shifts
+between the absorption due to the 1 quantum energy
+state and the EL of the blue and green SQW LED’s were 290
+and 570 meV, respectively. When the In-composition ratio
+of the InGaN well layer increases, In-composition ﬂuctuation
+increases and an energy tail of the absorption spectra to
+a lower energy state is formed due to an InGaN phase
+separation during the growth [19]. Then, the width of the
+PC spectrum of green LED’s (b) becomes broad and the
+peak wavelength is almost the same for the blue and green
+LED’s. All of the EL appears at this lower energy tail of the
+Fig. 3. PC and EL spectra of the blue and green InGaN SQW LED’s. (a)
+PC of the blue, (b) PC of the green, (c) EL of the blue and (d) EL of the
+green InGaN SQW LED’s. The EL was observed at a forward current of 20
+mA at RT.
+absorption spectra resulting from In-composition ﬂuctuation.
+These results indicate that the EL of blue and green SQW
+LED’s originates from the carrier recombination at the deep
+localized states with localization energies of 290 meV and 570meV, respectively. These localized states are equivalent to athree-dimensionally conﬁned quantum dot-like state. The blue
+shift of the EL of the SQW LED’s with increasing forward
+current (see Fig. 2) is probably due to a band-ﬁlling effect ofthese deep localized states.
+III. B
+LUISH-PURPLELD’s
+The InGaN MQW LD device consisted of a 300- ˚A-thick
+GaN buffer layer grown at a low temperature of 550 C,
+a3 -m-thick layer of n-type GaN:Si, a 0.1- m-thick layer
+of n-type In GaN:Si, a 0.5- m-thick layer of n-type
+AlGaN:Si, a 0.1- m-thick layer of n-type GaN:Si,
+an InGaN–InGaN MQW structure consisting of
+three35- ˚A-thick Si-dopedIn GaNwelllayers forminga
+gain medium separated by 70- ˚A-thick Si-doped In GaN
+barrier layers, a 200- ˚A-thick layer of p-type Al GaN:Mg,
+a 0.1-m-thick layer of p-type GaN:Mg, a 0.5- m-thick layer
+of p-type Al GaN:Mg, and a 0.3- m-thick layer of p-
+typeGaN:Mg.The 0.1- m-thick n-typeandp-type GaN layers
+were light-guiding layers. The 0.5- m-thick n-type and p-type
+AlGaN layers acted as cladding layers for conﬁnement
+of the carriers and the light emitted from the active region
+of the InGaN MQW structure. The structure of the ridge-geometry InGaN MQW LD was almost the same as thatdescribed previously [6].
+First, the surface of the p-type GaN layer was partially
+etcheduntilthen-typeGaNlayerandthep-typeAl
+GaN
+claddinglayerwereexposed,inordertoformaridge-geometryLD [6]. A mirror facet was also formed by dry etching, as
+reported previously [2]. The area of the ridge-geometry LD
+was 4
+m550m. High-reﬂection facet coatings (30%)
+consisting of two pairs of quarter-wave TiO –SiOdielectricNAKAMURA et al.: GaN-BASED BLUE/GREEN SEMICONDUCTOR LASER 437
+Fig. 4. The structure of the InGaN MQW LD’s.
+multilayerswereusedtoreducethethresholdcurrent.ANi–Au
+contact was evaporated onto the p-type GaN layer, and a
+Ti–Al contact was evaporated onto the n-type GaN layer. Theelectrical characteristics of the LD’s fabricated in this waywere measured under a direct current (DC). The structure ofthe InGaN MQW LD’s is shown in Fig. 4. The Stokes shift of
+this LD between the absorption due to the
+1 QW energy
+state of the PC spectra and the laser emission was 190 meV,as described below.
+Fig. 5 shows the PC spectra of three kinds of InGaN MQW
+LD’s which were grown under the same conditions except
+for the In composition of the InGaN well layers. The Incompositions of the InGaN well layer of the LD’s were (a)0.10, (b) 0.12, and (c) 0.20. By comparing the PC spectraof the LD’s in Fig. 5 with those of blue and green InGaN
+SQW LED’s in Fig. 3, we determined that the 343 nm (3.62
+eV) peak is due to an absorption of Al
+GaN cladding
+layers, the 366 nm (3.39 eV) peak is due to an absorption ofGaN guiding layers and In
+GaN barrier layers, and (a)
+the 386 nm (3.21 eV), and (b), (c) 390 nm (3.18 eV) peaks
+are due to the absorption at the 1 electron heavy-hole
+excitonic transition in the InGaN well layers. The stimulatedemissions of these LD’s appearingat (a) 390nm (3.18 eV), (b)401 nm (3.09 eV), and (c) 419 nm (2.96 eV), were positionedat the lower energy tail region of the absorption spectra of the
+PC spectrum. The Stokes shifts between the absorption due to
+the
+1 QW energy state and the laser emission were (a) 30
+meV, (b) 90 meV, and (c) 220 meV. When the In compositionof the InGaN well layers increases, the PC spectra show
+broad spectrum width and have the lower energy tail in the
+longerwavelengthregionduetothephaseseparationofInGaNduring the growth [19]. This means thatthe laser emission alsooriginates from carrier recombination at a deep localized stateof the
+1two-dimensional(2-D)InGaNQWstate,whichis
+almostequivalentto aquantumdotstate [16],[17].The Stokes
+shift becomes larger with increasing In composition becausethe emission originates from the localized states formed inthe In-rich region in the InGaN well layer due to the In-
+Fig. 5. PC spectra of the InGaN MQW LD’s. In composition of the LD’s
+were (a) 0.10, (b) 0.12 and (c) 0.20. The emission wavelengths of the LD’swere (a) 390 nm, (b) 401 nm and (c) 419 nm.
+composition ﬂuctuation. However, the localized energy of the
+carriers becomes much smaller when the In composition is
+lower than 0.12. This means that the phase separation of
+InGaNbecomessmalland,asaresult,three-dimensional(3-D)
+conﬁnement effects, i.e., quantum dot effects become smallerwith low In composition of the InGaN well layer.
+Fig. 6 shows typical voltage versus current (
+–) charac-
+teristics and the light output power per coated facet of theLD as a function of the forward DC current (
+–)a tR T .
+The In composition of this LD was 0.15 and the Stokes
+shift between the absorption due to the 1 QW energy
+state of the PC spectra and the laser emission was 190
+meV. No stimulated emission was observed up to a thresholdcurrent of 80 mA, which corresponded to a threshold current
+density of 3.6 kA/cm
+, as shown in Fig. 6. The operating
+voltage at the threshold current was 5.5 V. We were ableto reduce the operating voltage signiﬁcantly, in comparison
+with values obtained previously (about 20–30 V), by adjusting438 IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS, VOL. 3, NO. 2, APRIL 1997
+Fig. 6. Typical /76– /73and /86– /73characteristicsofInGaNMQWLD’smeasured
+under CW operation at RT.
+the growth, Ohmic contact and doping proﬁle conditions
+[2]–[7]. In the previous structures, the InGaN well and barrierlayers were undoped [2]–[7]. In the present structures, Siwas doped into these layers to reduce the threshold current
+density (from about 10 to 3.6 kA/cm
+) and operating voltage.
+Recently, the recombination of excitons localized at certainpotential minima in an InGaN quantum well was proposedas the emission mechanism for InGaN SQW LED’s and
+MQW LED’s [16], [17]. It was suggested that these localized
+excitons, or zero-dimensional quantum dots, were related tothe emission mechanism for InGaN MQW LD’s [16], [17].The exact effect of Si doping is not clear at present. However,
+there is a possibility that Si doping enhances the formation
+of a localized state and, as a result, a quantum-dot-like statein the InGaN well layer. Also, the temperature of thermalannealing for Mg-doped GaN and AlGaN layers to activate
+Mg acceptors was changed from 700
+C to 600 C after
+evaporation of Ni–Au metal in order to reduce the contactresistanceofthep-electrode[13].Thelow-temperaturethermalannealing probably prevents dissociation of GaN and InGaN
+layers [13].
+Fig. 7 shows the results of a lifetime test of CW-operated
+LD’s carried out at RT, in which the operating current isshown as a function of time under a constant output power
+of 1.5 mW per facet controlled using an autopower controller
+(APC). The operating current increases gradually due to theincrease in the threshold current from the initial stage andsharply after 35 h. This short lifetime is probably due to the
+largeheatgenerationresultingfromthehighoperatingcurrents
+and voltages. Breakdown of the LD’s occurred after a periodof more than 35 h due to the formation of a short circuit inthe LD’s. This short lifetime is probably caused by a high
+threshold current density (3.6 kA/cm
+) and a high operating
+voltage through the high heat generation at the active layer.
+Next, the emission spectra of the LD’s were measured
+under RT CW operation at an output power of 1 mW.
+An optical spectrum analyzer (ADVANTEST Q8347), which
+utilized the Fourier-transform spectroscopy method by meansofaMichelsoninterferometer,wasusedtomeasurethespectra
+Fig. 7. Operatingcurrentasafunctionoftimeunderaconstantoutputpower
+of 1.5 mW per facet controlled using an autopower controller. The LD was
+operated under DC at RT.
+of the LD’s with a resolution of 0.001 nm. At 1.0,
+whereis the current density and is the threshold current
+density, longitudinal modes with many sharp peaks with a
+peak separation of 0.042 nm 0.3 meV, where
+is the mode separation energy), were observed, as shown in
+Fig. 8(a). If these peaks arise from the longitudinal modes ofthe LD, then the mode separation
+is given by
+(1)
+where is the effective refractive index and is the
+emission wavelength (405.83 nm). is 0.055 cm. Thus,
+wascalculatedas3.6,whichisrelativelylargeduetothewave-
+length and temperature dependence of the refractive indices of
+GaN and InGaN. Also, other periodic subband emissions witha peak separation of 0.25–0.29 nm
+1.8–2.1 meV) were
+observed. The origin of these subband emissions has not yet
+been clariﬁed. However, it is possible that these emissions
+result from transitions between quantum dot subband energylevels,asmentionedabove.Severalpeakswithadifferentpeakseparation (energy separation of 1–5 meV) from that of the
+longitudinal mode appeared under pulsed current operation, as
+described in our previous reports [3], [5]–[7]. These subbandemissionswith anenergy separation of 1–5meV arecausedbymode hopping between adjacent QW or quantum dot subband
+energy levels due to the pulsed current operation, as shown in
+Figs. 13 and 14. At
+1.2, the main peak at 405.83 nm
+becomes dominant, as shown in Fig. 8(b).
+The temperature dependence of the emission spectra was
+measured between 20 C and 60 C under CW operation
+with a constant output power of 1 mW, as shown in Fig. 9.Large mode hopping of the peak emission wavelength withan energy step of 1–5 meV is observed, which results from
+the temperature dependence of the gain proﬁle. Mode hopping
+occurs between the subband emissions, which is probably aresult of the transitions between adjacent QW or quantumdot subbands, as shown in Fig. 8. The change in the actual
+emission spectra with temperature between 47
+C and 48 C
+is shown in Fig. 10. When the temperature is increased from47
+Ct o4 8 C, the peak wavelength varies from 407.428 nmNAKAMURA et al.: GaN-BASED BLUE/GREEN SEMICONDUCTOR LASER 439
+Fig. 8. Laser emission spectra measured under RT CW operation with
+current densities of (a) /74 /611.0 /74 /116/104and (b) /74 /611.2 /74 /116/104.
+Fig. 9. Temperature dependence of the peak emission wavelengths of InGaN
+MQW LD’s under CW operation with a constant output power of 1 mW.
+to 408.523 nm (with an energy difference of 7 meV) due to
+the change in the gain proﬁle. The peak stimulated emission
+always appears at the peak of each subband emission.
+Fig. 11 shows the emission spectra of InGaN MQW LD’s
+with various operating currents under RT CW operation. At acurrentof156mA,manylongitudinalmodesareobservedwitha mode separation of 0.042 nm. Periodic subband emissionsare observed with a peak separation of about 0.025 nm (
+2 meV). The origin of these subband emissions has not yetbeen clariﬁed in detail. However, it is possible that theseemissions result from transitions between quantum dot-likesubband energy levels, as mentioned above. On increasingthe forward current from 156 to 186 mA, the laser emissionbecomes a single mode and shows mode hopping of the peak
+wavelength toward higher energy, and the peak emission is at
+the center of each subband emission. Fig. 12 shows the peak
+Fig. 10. Optical spectra of InGaN MQW LD’s measured under CW opera-
+tion at temperatures of (a) 47/14C, (b) 47.5/14C, and (c) 48/14C. The intensity
+scales for these three spectra are in arbitrary units, and each one is different.
+wavelength of the laser emission as a function of the operating
+current under RT CW operation. The gradual increase of thepeak wavelength occurs probably due to band-gap narrowingof the active layer caused by the temperature increase. At
+certain currents, large mode hopping of the peak wavelength
+toward higher energy is observed with increasing operatingcurrent.
+Under pulsed current operation, laser emission appears from
+all of these subband emissions because the operating current
+is modulated from zero to the peak with a pulse width of 0.5
+s and duty ratio of 20%, as shown in Fig. 13. Fig. 14 shows
+the peak wavelength of the maximum peak as a function of
+the operating pulsed current. The gradual increase of the peak
+wavelength with increasing operating current seen in Fig. 12is not observed in Fig. 14 because the generation of heat issmallunderpulsedoperation.Thepeakwavelengthalsoshows
+the same mode hopping toward higher energy with increasing
+operating current under pulsed operation as shown in Figs. 11and 12. Several peaks with different peak separations (energyseparation of 1–5 meV) from that of the longitudinal mode
+appeared under pulsed current operation, as described in our
+previous reports [3], [5], [7]. The origin of these subbandemissions has not yet been clariﬁed exactly. These subbandemissions with an energy separation of 1–5 meV are caused
+by mode hopping probably between adjacent quantum dot-
+like subband energy levels under a pulsed current operation,as shown in Figs. 13 and 14.440 IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS, VOL. 3, NO. 2, APRIL 1997
+Fig. 11. Emission spectra of InGaN MQW LD’s with various operating
+currents under RT CW operation.
+Fig. 12. Peak wavelength of the emission spectra of the InGaN MQW LD’s
+as a function of the operating current under RT CW operation.
+Next, the delay time of the laser emission of the LD’s as a
+function of the operating current was measured under pulsedcurrent modulation using the method described in [7] in orderto estimate the carrier lifetime
+. The delay time is given
+by
+(2)
+where is the minority carrier lifetime, is the pumping
+current, and is the threshold current. Fig. 15 shows the
+delay time of the laser emission as a function of
+From this ﬁgure, was estimated to be 4.7 ns, which
+Fig. 13. Emission spectra of InGaN MQW LD’s with various operating
+currents under RT pulsed operation. The pulse width and duty ratios of the
+pulsed currents were 0.5 /22s and 20%.
+Fig. 14. Peak wavelength of the emission spectra of the InGaN MQW LD’s
+as a function of the operating current under RT pulsed operation.
+was almost same as the previous value of 3.2 ns [7]. The
+threshold carrier density was estimated to be 1
+10/cmfor a threshold current density of 3.6 kA/cm ,a
+carrier lifetime of 4.7 ns, and an active layer thickness of 105
+˚A [7]. The thickness of the active layer was determined as
+105˚A assuming that the injected carriers were conﬁned in
+the InGaN well layers in the active layer. Typical values are
+3 ns, 1 kA/cm and 210/cmfor
+AlGaAs lasers and 110/cfor InGaAsP lasers.NAKAMURA et al.: GaN-BASED BLUE/GREEN SEMICONDUCTOR LASER 441
+Fig. 15. The delay time td of the laser emission as a function of
+/108/110 /40 /73/61 /40 /73 /0 /73 /116/104 /41/41 /58/73is the pumping current and /73 /116/104is the threshold current.
+In comparison with these values for conventional lasers,
+for our structure is relatively large (two orders of magnitude
+higher), probably due to the large density of states of carriersresulting from their large effective masses [20].
+Fig. 16 shows typical near-ﬁeld radiation patterns (NFP)
+for the InGaN MQW LD’s in the planes parallel and per-
+pendicular to the junction. The beam full-width at half-power(FWHP) values for the parallel and perpendicular NFP’s were1.2 and 0.4
+m, respectively. The astigmatism of the laser
+diodes depends on the optical mode proﬁle, which in turn
+is determined by the laser structure. A typical value of theastigmatism was 2
+m. From the NFP perpendicular to the
+junction , the optical conﬁnement factor of the InGaN
+MQW LD’s was estimated to be 0.025 by calculating the ratio
+of the integrated area of the NFP within three InGaN welllayers to the integrated whole area of the NFP within thewhole structure.
+IV. C
+ONCLUSION
+By combining a high-power blue InGaN SQW LED, a
+green InGaN SQW LED and a red AlInGaP LED, many
+applications, such as LED full-color displays and LED whitelamps for use in place of light bulbs or ﬂuorescent lamps,withcharacteristicsofhighreliability,high-durabilityandlow-
+energy consumption can now be realized. The Stokes shifts
+of energy differences between the exciting and the emissionenergy of the blue and green InGaN SQW LED’s were aslarge as 290 and 570 meV, respectively, at RT. This indicates
+that the energy depth of the localized states, where the carriers
+recombine to give rise to spontaneous emissions, is 290–570meV in the InGaN QW states. These localized states areequivalent to a quantum-dot-like state.
+The RT CW operation of InGaN MQW LD’s with a
+lifetime of 35 h was demonstrated. The Stokes shifts of energydifferences between the exciting and the emission energy of
+Fig. 16. Typical NFP of the InGaN MQW LD’s in the planes parallel /40 /88 /41
+and perpendicular /40 /89 /41to the junction under RT CW operation with an output
+power of 2 mW.
+the InGaN MQW LD’s were as large as 30 meV for
+0.10, 90 meV for 0.12, 190 meV for 0.14, and
+220 meV for at RT, where is an In mole
+fraction of the In GaN well layers. A deep localized
+state (the localization energy is higher than 100 meV) which isequivalent to a quantum-dot-like state was formed when the In
+compositionof theInGaNwelllayerwas higherthan0.14,due
+to the InGaN phase separation during the growth [16], [17].Both the spontaneous emission and the stimulated emission ofthe LD’s originated from these deep localized energy states.
+Using high-resolution cross-sectional transmission electron
+microscopy (TEM), a periodic indium composition ﬂuctuationwas observed, which was probably caused by InGaN phaseseparation during growth [16], [17]. Based on these results,
+the laser emission is considered to originate from the InGaN
+quantum-dot-likestates.Themanyperiodicsubbandemissionsprobably result from the transitions between the subbandenergy levels of the InGaN quantum dots formed from In-
+rich regions in the InGaN well layers. We estimated the size
+of the InGaN dots to be approximately 35 ˚A using high-
+resolution cross-sectional TEM [17]. These InGaN quantumdots were self-organized due to the phase separation during
+InGaN growth. Therefore, it is difﬁcult to control the size of
+InGaN dots that are composed of adjacent In-rich and -poorregions. The energy separation of each subband emission isonly about 1–5 meV which is considered to be relatively small
+in comparison with the energy difference between the
+1
+and 2 subband energy transitions of the quantum dots.
+These periodic subband energy levels are probably causedby the transitions of the
+1 subband energy levels of
+a number of quantum dots with different dot sizes. The
+optical conﬁnement factor of the InGaN MQW LD’s was
+estimated to be 0.025 from the measurement of the NFP.
+REFERENCES
+[1] S. Nakamura, M. Senoh, N. Iwasa, S. Nagahama, T. Yamada, and T.
+Mukai, “Superbright green InGaN single-quantum-well-structure light-442 IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS, VOL. 3, NO. 2, APRIL 1997
+emitting diodes,” Jpn. J. Appl. Phys. Lett. , vol. 34, pp. L1332–L1335,
+1995.
+[2] S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T.
+Matsushita,H.Kiyoku,andY.Sugimoto,“InGaN-basedmulti-quantum-well-structure laser diodes,” Jpn. J. Appl. Phys. , vol. 35, pp. L74–L76,
+1996.
+[3] S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T.
+Matsushita, H. Kiyoku, and Y. Sugimoto, “InGaN multi-quantum-well-
+structure laser diodes with cleaved mirror cavity facets,” Jpn. J. Appl.
+Phys., vol. 35, pp. L217–L220, 1996.
+[4] S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T.
+Matsushita, H. Kiyoku, and Y. Sugimoto, “InGaN multi-quantum-well
+structure laser diodes grown on MgAl
+/50O /52substrates,” Appl.Phys.Lett. ,
+vol. 68, pp. 2105–2107, 1996.
+[5] S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T.
+Matsushita, H. Kiyoku, and Y. Sugimoto, “Characteristics of InGaN
+multi-quantum-well-structure laser diodes,” Appl. Phys. Lett. , vol. 68,
+pp. 3269–3271, 1996.
+[6] S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T.
+Matsushita, Y. Sugimoto, and H. Kiyoku, “Ridge-geometry InGaN
+multi-quantum-well-structure laser diodes,” Appl. Phys. Lett. , vol. 69,
+pp. 1477–1479, 1996.
+[7] S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T.
+Matsushita, Y. Sugimoto, and H. Kiyoku, “Optical gain and carrierlifetime of InGaN multi-quantum well structure laser diodes,” Appl.
+Phys. Lett. , vol. 69, pp. 1568–1570, 1996.
+[8] K. Itaya, M. Onomura, J. Nishino, L. Sugiura, S. Saito, M. Suzuki, J.
+Rennie, S. Nunoue, M. Yamamoto, H. Fujimoto, Y. Kokubun, Y. Ohba,
+G. Hatakoshi, and M. Ishikawa, “Room temperature pulsed operation
+of nitride based multi-quantum-well laser diodes with cleaved facets on
+conventional C-face sapphire substrates,” Jpn. J. Appl. Phys. , vol. 35,
+pp. L1315–L1317, 1996.
+[9] S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T.
+Matsushita, Y. Sugimoto, and H. Kiyoku, “Continuous-wave operation
+of InGaN multi-quantum-well-structure laser diodes at 233 K,” Appl.
+Phys. Lett. , vol. 69, pp. 3034–3036, 1996.
+[10] S. Nakamura, M. Senoh, S. Nagahama, N. Iwasa, T. Yamada, T. Mat-
+sushita, Y. Sugimoto, and H. Kiyoku, “Room-temperature continuous-
+wave operation of InGaN multi-quantum-well structure laser diodes,”
+Appl. Phys. Lett. , vol. 69, pp. 4056–4058, 1996.
+[11] S. Strite and H. Morko¸ c, “GaN, AlN and InN: A review,” J. Vac. Sci.
+Technol., vol. B10, pp. 1237–1266, 1992.
+[12] H. Amano, M. Kito, K. Hiramatsu, and I. Akasaki, “
+/112-type conduction
+in Mg-doped GaN treated with low-energy electron beam irradiation
+(LEEBI),” Jpn. J. Appl. Phys. , vol. 28, pp. L2112–L2114, 1989.
+[13] S. Nakamura, N. Iwasa, M. Senoh, and T. Mukai, “Hole compensation
+mechanism of p-type GaN ﬁlms,” Jpn. J. Appl. Phys. , vol. 31, pp.
+1258–1266, 1992.[14] S. Nakamura and T. Mukai, “High-quality InGaN ﬁlms grown on GaN
+ﬁlms,”Jpn. J. Appl. Phys. , vol. 31, pp. L1457–L1459, 1992.
+[15] M. A. Khan, J. N. Kuznia, A. R. Bhattarai, and D. T. Olson, “Metal
+semiconductor ﬁeld effect transistor based on signal crystal GaN,” Appl.
+Phys. Lett. , vol. 62, pp. 1786–1788, 1993.
+[16] S. Chichibu, T. Azuhata, T. Sota, and S. Nakamura, “Spontaneous
+emissionoflocalizedexcitonsinInGaNsinglequantumwellstructures,”
+Appl. Phys. Lett. , vol. 69, pp. 4188–4190, 1996.
+[17] Y. Narukawa, Y. Kawakami, M. Funato, Sz. Fujita, Sg. Fujita, and S.
+Nakamura, “Role of self-formed InGaN quantum dots for the exciton
+localization in the purple laser diodes emitting at 420 nm,” Appl. Phys.
+Lett.,Appl. Phys. Lett., vol. 70, pp. 981–983, 1997.
+[18] S.Nakamura,“GaNgrowthusingGaN bufferlayer,” Jpn.J.Appl.Phys. ,
+vol. 30, pp. L1705–L1707, 1991.
+[19] I. Ho and G. B. Stringfellow, “Solid phase immiscibility in GaInN,”
+Appl. Phys. Lett. , vol. 69, pp. 2701–2703, 1996.
+[20] M. Suzuki and T. Uenoyama, “Biaxial strain effect on wurtzite
+GaN/AlGaN quantum well lasers,” Jpn. J. Appl. Phys. , vol. 35, pp.
+1420–1423, 1996.
+Shuji Nakamura was born in Ehime, Japan, on
+May 22, 1954. He received the B.E., M.S., and
+Ph.D. degrees in electronic engineering from theUniversity of Tokushima, Japan in 1977, 1979, and
+1994, respectively.
+In 1979, he joined Nichia Chemical Industries
+Ltd. Since that time, he has studied optoelectronic
+materials and devices in the research and devel-
+opment department of the company. In 1988, he
+spent a year at the University of Florida as a
+VisitingResearchAssociate.HestartedIII–Vnitride
+research in 1989 and succeeded in developing a blue LED with a luminousintensity as high as 2 cd using III–V nitride materials in 1993. In 1995,
+he developed high-brightness single-quantum-well structure blue and green
+LED’s with a luminous intensity of 2 cd and 10 cd, respectively. These
+luminous intensities are about 100 times higher than those of conventional
+blue SiC LED’s and green GaP LED’s. In 1995, he also developed a bluish-
+purplelaserdiodeusingIII–Vnitridematerialsfortheﬁrsttime.Atpresent,he
+is responsible for all aspects of III–V nitride research for blue/green LED’s
+and LD’s at Nichia Chemical.
+Dr. Nakamura is the recipient of the 1994 Nikkei BP Engineering Award,
+the 1994 JSAP Paper Award, the 1994 OEC Special Award, the 1995 Sakurai
+Award, the 1995/1996 Phosphor Award, the 1996 SID Special Recognition
+Award, the 1996 LEOS Engineering Achievement Award, and the 1996
+Nishina Memorial Award.
