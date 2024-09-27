@@ -22,7 +22,7 @@ You can also run the complete pipeline using the Jupyter Notebook, which integra
 
 For insights into the current methodologies and findings in keyword extraction, you can refer to the following research article:
 
-This program and its associated materials are the intellectual property of the original authors, Swagata Duari and Vasudha Bhatnagar. We are exploring this work solely for educational and learning purposes. Any use beyond personal study and experimentation should be done with permission from the authors.
+<small>Note: This program and its associated materials are the intellectual property of the original authors, Swagata Duari and Vasudha Bhatnagar. We are exploring this work solely for educational and learning purposes. Any use beyond personal study and experimentation should be done with permission from the authors.<small>
 ```bibtex
 @article{DUARI2019100,
     title = "sCAKE: Semantic Connectivity Aware Keyword Extraction",
