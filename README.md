@@ -35,3 +35,8 @@ For insights into the current methodologies and findings in keyword extraction, 
     author = "Swagata Duari and Vasudha Bhatnagar",
     keywords = "Automatic Keyword Extraction, Text Graph, Semantic Connectivity, Parameterless, Language Agnostic"
 }
+
+## ⚖️ Intellectual Property Notice
+
+This program and its associated materials are the intellectual property of the original authors, Swagata Duari and Vasudha Bhatnagar. We are exploring this work solely for educational and learning purposes. Any use beyond personal study and experimentation should be done with permission from the authors.
+
